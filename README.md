@@ -53,7 +53,7 @@ pip install pygame
 git clone https://github.com/Thyagchlzn/multiplayerchessgame.git
 ```
 
-### Workflow
+### Working
 
 * **Online mode**
 
